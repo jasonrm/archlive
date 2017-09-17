@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DEST=/srv/http/archlinux-custom
+DEST=/srv/http/arch
 
 mkdir -p $DEST/x86_64
 cp ./work/iso/arch/x86_64/airootfs.sfs $DEST/x86_64/
